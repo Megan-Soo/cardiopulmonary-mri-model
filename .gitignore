@@ -1,0 +1,6 @@
+results
+*.ini
+__pycache__
+*.dat
+*.sh
+recon/npy_to_h5.py
